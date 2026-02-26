@@ -1,0 +1,260 @@
+[
+{
+	"uri": "http://www.ccbb.psu.edu/people/",
+	"title": "People",
+	"tags": [],
+	"description": "",
+	"content": " Core Members    CCBB Member Affiliation     Le Bao STAT   Laura Carrel BMB (COM)   Francesca Chiaromonte STAT   Santhosh Girirajan BMB (ECOS)   Ross Hardison BMB (ECOS)   Arthur Lesk BMB (ECOS)   Qunhua Li STAT   Dajiang Liu PHS   Manuel Llinas BMB (ECOS)   Kamesh Madduri CSE   Shaun Mahony BMB (ECOS)   Kateryna Makova BIOL   Paul Medvedev CSE BMB (ECOS)   Anton Nekrutenko BMB (ECOS)   Stephen Schaeffer BIOL   Mingfu Shao CSE   Moriah Szpara BMB (ECOS)    Affiliate Members    CCBB Member Affiliation     Marco Archetti BIOL   Anton Bankevich CSE   Erika Ganda AS   Christian Huber BIOL   David Koslicki CSE BIOL   Xiaojun (Lance) Lian  BIOL BME   Hyuntae Na CSE(PSH)   Yana Safonova CSE   Justin Silverman IST   Zachary Szpiech BIOL    Legend  AS = Department of Animal Sciences BMB (COM) = Department of Biochemistry and Molecular Biology (College of Medicine) BMB (ECOS) = Department of Biochemistry and Molecular Biology (College of Science) BME = Department of Biomedical Engineering BIOL = Department of Biology COM = College of Medicine CSE = Department of Computer Science and Engineering at University Park\nCSE(PSH) = Department of Computer Science at Penn State Harrisburg IST = College of Information Sciences and Technology PHS = Public Health Sciences STAT = Department of Statistics \n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/wemsa/",
+	"title": "WEMSA",
+	"tags": [],
+	"description": "Workshop on emerging methods in sequence analysis",
+	"content": " Workshop on emerging methods in sequence analysis See sidebar for various editions of the workshop.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/edu/",
+	"title": "Education",
+	"tags": [],
+	"description": "",
+	"content": " Classes Penn State offers several courses that cover Computational Biology and Bioinformatics material. We list some of them here:\n   Course ID Description and links     BMB 484 Functional Genomics   BMB 482 Introduction to Computational Biology   BMMB 551 Genomics   BMMB/MCIBS 554 Introduction to data driven life sciences   BMMB 852 Applied Bioinformatics   PHYS/BIOL 497 Network analysis of biological systems   STAT 555 Statistical Analysis of Genomics Data   BIOL 405 Molecular Evolution    BIOL 422 Advanced Genetics   BIOL 428 Population Genetics   BIOL 439 Practical Bioinformatics   MCIBS 556 Computation, Bioinformatics, and Statistics Practicum   CSE/BMMB 566 Algorithms and Data Structures for Bioinformatics    (don\u0026rsquo;t see a relevant class here? Send an email to pzm11).\nGraduate programs Students interested in pursuing graduate studies with Computational Biology and Bioinformatics as the main component have several programs to choose from. The right choice depends on the exact type of research you are interested in, as well as your educational background. The most common options are:\n Bioinformatics and Genomics (BG) Molecular Cellular and Integrative Biosciences (MCIBS) Computer Science and Engineering (CSE) Biochemistry and Molecular Biology (BMB) Biology (BIOL) Statistics (STAT)  "
+},
+{
+	"uri": "http://www.ccbb.psu.edu/resources/",
+	"title": "Resources",
+	"tags": [],
+	"description": "",
+	"content": " Events There are several regular events at Penn State that are of interest to researchers in Computational Biology and Bioinformatics. Some of these include:\n Bioinformatics and Genomics Retreats Center for Medical Genomics retreats Weekly Wednesday Wartik Genomics Lecture Series (WWWGLS)  Related Penn State organizations  Center for Medical Genomics Center for Eukaryotic Gene Regulation Genome Sciences Institute of the Huck Graduate Student Organization for Genomics interest (GenoMIX): a forum for graduate students whose research is related to bioinformatics and genomics Bioinformatics Consulting Center: offers bioinformatics data analysis services that cover multiple application domains of high throughput sequencing. PSU\u0026rsquo;s Genomics Core Sequencing Facilities: provides next-generation sequencing and a number of traditional genomic services to the Penn State community as well as those outside the University\n  "
+},
+{
+	"uri": "http://www.ccbb.psu.edu/about/",
+	"title": "History",
+	"tags": [],
+	"description": "",
+	"content": "The Center for Computational Biology and Bioinformatics was founded in 2003. Work within the Center has led to many important advances in genome analysis, including groundbreaking work in evolutionary and functional genomics. Algorithms for alignments of entire genome sequences from multiple species were developed here as part of our participation in consortia analyzing genomes of mouse, rat, chicken, rhesus, chimpanzee, and others. These programs are still in common use today. Foundational work applying bioinformatic and statistical approaches to infer function from aligned genome sequences and from epigenetic signals arose from the Center, e.g. during our participation in the ENCODE project. Providing broad access to bioinformatic tools for genome analysis and enabling transparency in analysis has been a consistent theme from the Center, leading to the popular Galaxy platform that is used internationally for analysis of genome data. The Center\u0026rsquo;s diverse membership of both experimental and computational scientists reflects the importance of experimental validations of the bioinformatic and statistical predictions. In 2017, the Center\u0026rsquo;s name was changed to its current one, from the \u0026ldquo;Center for Comparative Genomics and Bioinformatics,\u0026rdquo; to better represent Penn State\u0026rsquo;s dynamic research landscape. It is currently being supported by the Huck Institutes of the Life Sciences and the Institute for Computational and Data Sciences.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/wemsa/2024/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " WEMSA2024: Workshop on Emerging Methods for Sequence Analysis The Center for Computational Biology and Bioinformatics at Penn State will host a one-day workshop on emerging methods for sequence analysis on August 9, 2024. The workshop will feature a mix of invited speakers and talks selected from submitted abstracts. We thank Zhiping Weng (University of Massachusetts) and Ben Raphael (Princeton University) for accepting our invitation as keynote speakers! To participate in the workshop please fill the registration form below. Registration is free.\nThe conference will be held in Agricultural Sciences and Industries Building. You can find its location on the map below along with other State College locations of interest.\nCONFERENCE MAP Topics of interest include, but are not limited to:\n data structures and algorithms for indexing, searching, sketching, assembling, and comparing sequencing data theoretical analysis on abstracted mathematical formulations statistical inference and association studies with sequencing data methods for analyzing omics data, e.g., single-cell, transcriptomic, or proteogenomic data  Key Dates  July 06: Abstract submission deadline July 08: Abstract notification deadline July 15: Registration deadline. Registrations after this deadline are space permitting, on a first-come first-serve basis. July 20: Late poster submission deadline Aug 09 : Day of workshop  Schedule    Session Time Speaker Title Full-Author List     Breakfast, poster setup, registration 8:30 AM      Morning keynote 9:00 AM Zhiping Weng Using a Comprehensive Atlas and Predictive Models to Reveal the Complexity and Evolution of cis-Regulatory Elements    Session 1 10:00 AM Md Hasin Abrar PLA-index: A k-mer Index Exploiting Rank Curve Linearity Md. Hasin Abrar, Paul Medvedev    10:15 AM Adam Park The Procrustean Graph: A breakthrough in rapid k-mer exploration across varying orders Adam Park, David Koslicki   Morning coffee break with posters 10:30 AM      Session 2 11:00 AM Stephen Hwang MEM-based pangenome indexing for k-mer queries Stephen Hwang, Nathaniel K. Brown, Omar Y. Ahmed, Katharine Jenike; Sam Kovaka; Michael C. Schatz, Ben Langmead    11:15 AM Yun William Yu On Minimizers and Convolutional Filters: Theoretical Connections and Applications to Genome Analysis     11:30 AM Guillaume Marçais Designing robust sketching methods Guillaume Marçais, C.S. Elder, Carl Kingsford    11:45 AM Ke Chen Sequence similarity estimation by random subsequence embedding Vinamratha Pattar, Ke Chen, Mingfu Shao   Lunch break (lunch provided) and poster session 12:00 PM      Session 3 1:30 PM Omar Ahmed Cliffy: robust 16S rRNA classification based on a compressed LCA index Omar Ahmed, Christina Boucher, Ben Langmead    1:45 PM Alex Sweeten Alignment-Free Annotation of Satellite DNA Alex Sweeten, Adam Phillippy, Michael Schatz    2:00 PM Sina Majidian Orthology inference at scale with FastOMA Sina Majidian, Yannis Nevers, Ali Yazdizadeh Kharrazi, Alex Warwick Vesztrocy, Stefano Pascarelli, David Moi, Natasha Glover, Adrian Altenhoff, Christophe Dessimoz    2:15 PM Mariia Pospelova Comparative analysis of adaptive immune receptor loci in mammalian species Maria Pospelova, Anton Zamyatin, Yixin Zhu, Katalin Voss, Corey T. Watson, Klaus-Peter Koepfli, Matt Pennell, Anton Bankevich, Yana Safonova    2:30 PM Hyuntae Na Reproducing the polarity characteristics of amino acids in the atomic level by coarse-graining waters and predicting the interactions between protein atoms and waters.    Afternoon coffee break with posters 2:45 PM      Session 4 3:15 PM Justin Silverman The First Software for Differential Expression/Abundance Analysis that is Actually Robust to Sequencing Depth Artifacts. Justin D. Silverman, Michelle Nixon, Greg Gloor    3:30 PM Qunhua Li Linkreg: a statistical framework for linking genome-wide candidate cis-regulatory elements to target genes Qiuhai Zeng, Guanjue Xiang, Ross Hardison, Xiang Zhu, and Qunhua Li   Afternoon keynote 3:45 PM Ben Raphael TBA    Closing remarks 4:45 PM       Accepted posters  Xiaofei Carl Zang. Anchorage accurately assembles anchor-flanked synthetic long reads Vikram Shivakumar. Mumemto: efficient maximal matching across multiple genomes Ke Chen Heuristic. minimum flow decomposition for general graphs Carina Howell. The Power of Community of Practice (CoP) in Implementing Classroom Undergraduate Research Experiences (CUREs) Juan Cerda. Genome evolution in parasitic plants; Insights from the first chromosome assemblies in Cuscuta Raul A. Gonzalez-Pech. A paleogenomic approach to reconstruct historical responses of coral reefs to anthropogenic change Zhezheng Song. Accurate detection of tandem repeat in error-prone long reads Alan Brown. Integrative Analysis of Histone Modifications, TF Binding, and Gene Expression in Plasmodium falciparum Lucia Williams. Multi-strain viral assembly and quantification using fractional flows Aaryan Mahesh. Sarnaik A SAT Approach for Faster Computation of DCJ Distance in Genomes with Duplicate Genes Kerim Heber. StrainR2 accurately deconvolutes strain-level abundance in synthetic microbial communities Xiang Li. Efficient Seeding for Error-Prone Sequences with SubseqHash2 Chen Xue. Detection of Differential Chromatin Interactions Ilia Minkin. Conservation assessment of human splice site annotation based on a 470-genome alignment Amatur Rahman. Efficient computation of EHH-based statistics  Organizers  Mingfu Shao David Koslicki Yana Safonova Anton Bankevich  Previous workshops  2018 2023  Funding This workshop is funded with the generous support of the Huck Institutes for the Life Sciences.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/visitingscholars/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " Pre-doctoral visiting scholar program The Center for Computational Biology and Bioinformatics (CCBB, http://ccbb.psu.edu) at Penn State is soliciting applications to support pre-doctoral visiting scholars. The program is intended for students who are working on their PhDs outside Penn State who would like to visit Penn State for a few months to work on a research project with one of our faculty. International students are welcome. You can use this opportunity to:\n Work with our renowned faculty on a research project that fits your thesis Expand your research horizons by attending our weekly seminars (www.ccbb.psu.edu/seminars). Expose yourself to a vibrant and inter-disciplinary research environment. Prepare for your next career steps by broadening your science network and gaining new experience. Explore an opportunity for a potential postdoc at PSU. Experience life in an idyllic American college town in a multicultural environment.  Interested students can learn more about the research performed at CCBB by visiting the webpages of our faculty (http://www.ccbb.psu.edu/people). After identifying a potential faculty host, please reach out to gauge their interest and develop a plan for the visit. Applications should be submitted by your potential host to ccbb@psu.edu with the following information: name of host and of visiting scholar, CV of visiting scholar, a brief research proposal for the visit (between 100 and 400 words), and the proposed timeline of the stay (should be between 1 and 6 months). Applications are accepted on a rolling basis.\nIf your application is accepted, CCBB will reimburse your travel expenses. Your host may be able to provide you with additional funding, but this is something you should discuss with your host. It is the responsibility of the host to make sure that you qualify for reimbursement prior to the trip being arranged. You and your host may also be asked to fill out a short outcomes survey or otherwise help for reporting purposes.\nFeel free to contact ccbb@psu.edu if you have any questions.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/wip2024/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " Bioinformatics Method Developers Community Day The event is open to all Penn State students, faculty, and staff involved in or interested in methods development for bioinformatics. We hope to connect folks and provide a platform for the presentation and discussion of work in methods development.\n October 2nd, 2024 Wartik 501 Advance registration is closed at this point. Walk-ins are welcome as long as space permits.  Schedule    Session Time Speaker Title     Coffee and snacks (Wartik 501) 9:30     Session 1 (Chair: Md. Hasin Abrar) 10:00 Ishan Behoora Harmonic search applied to glike to estimate population parameters     Judith Rodriguez Leveraging FracMinHash Containment for Estimating Nonsynonymous and Synonymous Selection     Manan Saxena Scalable Inference for Bayesian Multinomial Dynamic Linear Models     Tinghua Chen Bayesian Multinomial Logistic Normal Additive Gaussian Process Model     Qiuhai Zeng Linkreg: a Bayesian framework to link cCREs to target genes     Pesho Ivanov Fast and exact sketch-based read mapping   Panel Discussion (Chair: Maxwell Konnaris) 11:30 Kevin Hockett The interface between method developers and method consumers     Kateryna Makova      Santhosh Girirajan      PJ Perry    Lunch (Wartik 501) 12:30     Session 2 (Chair: Tinghua Chen) 1:30 Kyle McGovern Replacing Normalizations with Interval Assumptions Improves Differential Expression/Abundance     Maxwell Konnaris Limits on Correlation Estimation in Sequence Count Data Analysis     Mushan Li Robust estimation of mean‐variance relation     Mahmudur Rahman Hera Estimating similarity and dissimilarity metrics using FracMinHash     Xiaofei Carl Zang Augmenting Transcriptome Annotations through the Lens of Splicing Evolution   Keynote Speaker (Chair: Xinyue Wang) 3:00 Dajiang Liu Leveraging EHR-based biobanks to predict disease risks and understand gene x environment interactions   Closing coffee and snacks 4:00     End 4:30      Organizing committee  Paul Medvedev Tinghua Chen Maxwell Konnaris Xinyue Wang Md Hasin Abrar  Funding This workshop is funded with the generous support of the Huck Institutes for the Life Sciences.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/wemsa/2023/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " 2023 Workshop on emerging methods for sequence analysis Information for participants  Location is Hintz Alumni Center, https://www.map.psu.edu/?id=1134#!m/261351 A set of recommended hotels, restaurants, and parking garages/lots have been compiled in a google map: https://www.google.com/maps/d/u/0/edit?mid=1USYgOeGSxdYGUApuxe63kwU4ivYnNcw\u0026amp;usp=sharing Notes about parking: The Fraser Street garage (135 S Fraser St, State College, PA 16801) is closest to the workshop venue. All the downtown garages are roughly $1/hour. More information about parking is available at: https://www.statecollegepa.us/169/Downtown-Parking  Schedule (Draft)    Session Time Speaker Title Full-Author List     Breakfast, poster setup, registration 8:30 AM      Morning keynote 9:00 AM Pavel Pevzner Towards complete genomics and metagenomics    Session 1 (ML \u0026amp; statistical analysis) 10:00 AM Liliana Florea Predicting Alu exonization in the human genome with a Deep Learning model Zitong He and Liliana Florea    10:15 AM Justin Silverman Scale Reliant Inference: with Applications to Sequence Count Data Analysis Justin Silverman and Michelle Nixon   Morning coffee break with posters 10:30 AM      Session 2 (sketching) 11:00 AM Amatur Rahman Compression algorithms for colored de Bruijn graphs Amatur Rahman, Yoann Dufresne and Paul Medvedev    11:15 AM Shaopeng Liu ERS-mer: a flexible-size seeding method for sequence comparison Shaopeng Liu and David Koslicki    11:30 AM Minh Hoang Low density and high conservation pattern-aware sequence sketch Quang Minh Hoang, Guillaume Marçais and Carl Kingsford    11:45 AM Jason Fan Fast and modular indexing of unitig-coherent metadata over spectrum preserving tilings in practice Jason Fan, Giulio Ermanno Pibiri and Robert Patro   Lunch break (lunch provided) and poster session 12:00 PM      Session 3 (long-reads) 1:30 PM Alejandro Ortigas-Vasquez How third-generation sequencing using high-fidelity long reads is changing the way we think about DNA viruses Alejandro Ortigas-Vasquez and Moriah Szpara    1:45 PM Vikram Shivakumar Sigmoni: efficient pangenome multi-classification of nanopore signal Vikram Shivakumar, Omar Ahmed, Sam Kovaka, Mohsen Zakeri and Benjamin Langmead    2:00 PM Mohsen Zakeri Real-time nanopore adaptive sampling with move data structure Mohsen Zakeri, Nathaniel Brown, Omar Ahmed, Travis Gagie and Ben Langmead    2:15 PM Alex Sweeten Mod.Plot: A Rapid and Interactive Visualization of Tandem Repeats Alexander Sweeten, Adam Phillippy and Michael Schatz   Afternoon coffee break with posters 2:30 PM      Session 4 (transcriptomics) 3:00 PM Tasfia Zahin Detection of Circular RNA through Bridging Tasfia Zahin, Carl Zang and Mingfu Shao    3:15 PM Ilia Minkin Quality assessment of human splice site annotation based on conservation in multiple species Ilia Minkin and Steven Salzberg    3:30 PM Qunhua Li RETROFIT: Reference-free deconvolution of cell-type mixtures in spatial transcriptomics Roopali Singh, Xi He, Adam Keebum Park, Ross Hardison, Xiang Zhu and Qunhua Li    3:45 PM Yi Xing Robust transcript analysis of long-read RNA-seq data Yi Xing   Afternoon keynote 4:00 PM Mona Singh TBD    Closing remarks 5:00 PM       Key Dates  April 1: Abstract submission deadline April 15: Abstract notification deadline ~~April 25th: Registration deadline. Registrations after this deadline are space permitting, on a first-come first-serve basis. ~~ May 4th: Late registration deadline. NOTE: THE WORKSHOP REGISTRATION IS NOW CLOSED DUE TO SPACE LIMITATIONS. IF YOU STILL REALLY WANT TO ATTEND BUT MISSED THE DEADLINE, PLEASE EMAIL US WEMSA23@PSU.EDU AND WE CAN PUT YOU ON A WAITLIST OR TRY TO OTHERWISE ACCOMMODATE. May 4th: Late poster accept deadline May 24 : Day of workshop  Keynotes  Pavel Pevzner Mona Singh  Organizers  Stefan Canzar Paul Medvedev Mingfu Shao  Previous workshops  2018  Call for participation The Center for Computational Biology and Bioinformatics at Penn State will host a one-day workshop on emerging methods for sequence analysis on May 24, 2023. The workshop will feature a mix of invited speakers and talks selected from submitted abstracts. We thank Mona Singh, Princeton University, and Pavel Pevzner, UC San Diego, for accepting our invitation as keynote speakers! Please register through this link. Registration is free.\nWe invite submissions of abstracts highlighting methodological innovation and summarizing experimental or theoretical results through EasyChair: https://easychair.org/conferences/?conf=wemsa23. Abstracts should be max. 250 words long and can be submitted until April 1st. We encourage submission of unpublished work. There is no formal review. After reading through all abstracts, the organizing committee will select abstracts for oral presentation. We invite authors of remaining abstracts to present their work in the form of a poster. If you have any questions, please email the organizers at wemsa23@psu.edu.\nSubmissions in the general scope of methods for biological sequence analysis will be considered. Topics of interest include, but are not limited to:\n data structures and algorithms for indexing, searching, sketching, assembling, and comparing sequencing data theoretical analysis on abstracted mathematical formulations statistical inference and association studies with sequencing data methods for analyzing omics data, e.g., single-cell, transcriptomic, or proteogenomic data  Note: if using adaptive technology and you require an accommodation, please instead submit your abstract by email to wemsa23@psu.edu.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/wemsa/2018/",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " 2018 Workshop on emerging methods for sequence analysis CCBB will host a one-day workshop on emerging methods for sequence analysis. The workshop will feature a mix of invited speakers and local Penn State speakers. It will be held on June 22nd (2018), immediately following the PSU Boot Camp on Data Reproducibility.\nOrganizers  Qunhua Li Shaun Mahony Paul Medvedev Anton Nekrutenko  Local information  Free Wifi is available (\u0026ldquo;attwifi\u0026rdquo;) throughout campus. The best way to get around State College is walking. Uber and Lyft are also available. Select hotel, attraction and dining recommendations here. The workshop is happening at the same time as the Central PA Theatre and Dance Fest. More comprehensive info is available at http://visitpennstate.org/  Schedule The workshop will be held on June 22nd, 2018, in the ASI auditorium.\n   Time Speaker Title     8:30 Registration, breakfast, and poster set-up    Session 1 Chair: Kristoffer Sahlin    9:00 Invited talk: Elana Fertig (JHU) Enter the matrix: factorization uncovers knowledge from omics   10:00 Marzia Cremona Discovering functional motifs in \u0026ldquo;Omics\u0026rdquo; curves using probabilistic K-mean with local alignment   10:15 Nate Coraor Genomics at a national scale: Distributed computing on NSF XSEDE resources with Galaxy and Pulsar   10:30 Coffee break and posters    Session 2 Chair: Anton Nekrutenko    11:00 Invited talk: Rob Patro (Stony Brook) Deconvolution, dictionaries and de Bruijn graphs : algorithm and data structure design for modern genomics   12:00 Kristoffer Sahlin IsoCon: Deciphering highly similar multi-copy gene transcripts from PacBio Iso-Seq data   12:15 Wilfried Guiblet A new dimension to DNA sequencing: polymerization kinetics at non-B DNA structures   12:30 Poster Session and Lunch    Session 3 Chair: Marzia Cremona    2:00 Invited talk: Seyoung Kim (CMU) Statistical methods for learning gene networks under SNP perturbation   3:00 Guray Kuzu Using topic modeling to identify protein groups from ChIPexo data   3:15 Guanjue Xiang PKnorm: normalizing sequencing depth and signal-to-noise ratio between epigenomic data   3:30 Coffee break and posters    Session 4 Chair: Guray Kuzu    4:00 Invited talk: Adam Phillippy (NIH) Can nanopore sequencing finally finish the human genome?   5:00 Tao Yang Detecting the differentially interacting genomic regions from Hi-C data   5:15 Jie Xu Detection of structure variations in cancer cell lines and leukemia patient samples.   5:30 Closing remarks    6 PM Dinner (by invitation)     Posters The poster session will be held during lunch but the posters will be up also during the coffee breaks.\n   Title Presenter Authors     Combining Imaging and Genomic Data in a Single Deep Learning Model Ben Lengerich Ben Lengerich, Amir Alavi, Maruan Al-Shedivat, Avinava Dubey, Jennifer Williams, Eric P. Xing   Characterizing locus-specific nuclear relocalization between cell types Lila Rieber Lila Rieber \u0026amp; Shaun Mahony   SPRITE: A fast and scalable variant detection pipeline Vasudevan Rengasamy Vasudevan Rengasamy, Paul Medvedev, Kamesh Madduri   Toward fast and accurate SNP genotyping from whole genome sequencing data for bedside diagnostics Chen Sun Chen Sun, Paul Medvedev   Scalable construction of locally collinear blocks in closely related genomes with L-Sibelia Ilia Minkin Ilia Minkin, Paul Medvedev   Characterizing protein-DNA binding event subtypes in ChIP-exo data Naomi Yamada Naomi Yamada, William K.M. Lai, Nina Farrell, B. Franklin Pugh, Shaun Mahony   Bulk Regulatory Peak Deconvolution using Single Cell RNA-seq Michael Kleyman Michael Kleyman, Ziv Bar-Joseph   Impacts of sequence diversity in isolates of human herpes simplex virus (HSV-1) Molly Rathbun Molly M. Rathbun, Moriah L. Szpara   Detection of shared balancing selection in the absence of trans-species polymorphism Xiaoheng Cheng Xiaoheng Cheng, Michael DeGiorgio   Integrated analysis of ATAC-seq and RNA-seq to investigate the epigenetic regulation of cetuximab response in HNSCC Luciane Tsukamoto Kagohara Luciane T Kagohara, Michael Considine, Thomas Sherman, Genevieve Stein-O\u0026rsquo;Brien, Alexander Favorov, Daria Gaykalova, Elana J Fertig   Quantifying the similarity of topological domains across normal and cancer human cell types Natalie Sauerwald Natalie Sauerwald and Carl Kingsford   Flow Cytometry and Global Metabolomics as Tools to Study the Impact of Xenobiotics on Microbiome Physiology and Function Jingwei Cai Jingwei Cai, Robert Nichols, Imhoi Koo, Zachary Kalikow, Yuan Tian and Andrew D. Patterson   Genetic Diversity of the Plasmodium vivax phosphatidylinositol 3-kinase (PvPI3K) gene in two regions of the China-Myanmar border HUGUETTE GAELLE NGASSA MBENDA Huguette Gaelle Ngassa Mbenda, Weilin Zeng, Faiza Amber Siddiqui, Zhaoqing Yang, Liwang Cui   scQuery: a web server for comparative analysis of single-cell RNA-seq data Amir Alavi Amir Alavi, Matthew Ruffalo, Aiyappa Parvangada, Zhilin Huang, and Ziv Bar-Joseph   A tale of two bumblebees: Prospects and challenges of utilizing Genome-Wide Association Studies (GWAS) to investigate the genomic basis of adaptive traits in insects Sarthok Rasique Rahman Sarthok R. Rahman and Heather M. Hines   Automatically eliminating errors induced by suboptimal parameter choices in transcript assembly Carl Kingsford Dan DeBlasio and Carl Kingsford   Diagnosis of Fasioscapulohumeral Dystrophy Through Nanopore Sequencing Anton Nekhai Anton Nekhai, Pavel Avdeyev, Alexander Liu, Yi-Wen Chen, Max A. Alekseyev   The ER Stress Sensor IRE1a Promotes Ras-induced Senescence Through Targeted Degradation of Pro-oncogenic Id1 mRNA Jeongin Son Nicholas Blazanin, Jeongin Son, Alayna Craig-Lucas, Christian John, Kyle Breech, Michael Podolsky and Adam Glick    Registration (closed) Please register here by May 31st. Registration is free. Breakfast, lunch, and coffee will be provided for registered participants.\nFunding This workshop was funded with the generous support of the Huck Institutes for the Life Sciences.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2016/",
+	"title": "Fall 2016",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2017/",
+	"title": "Spring 2017",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2017/",
+	"title": "Fall 2017",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2018/",
+	"title": "Spring 2018",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2018/",
+	"title": "Fall 2018",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2019/",
+	"title": "Spring 2019",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2019/",
+	"title": "Fall 2019",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2020/",
+	"title": "Spring 2020",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/summer-2020/",
+	"title": "Summer 2020",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2020/",
+	"title": "Fall 2020",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2021/",
+	"title": "Spring 2021",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2021/",
+	"title": "Fall 2021",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2022/",
+	"title": "Spring 2022",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2022/",
+	"title": "Fall 2022",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2023/",
+	"title": "Spring 2023",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/summer-2023/",
+	"title": "Summer 2023",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2023/",
+	"title": "Fall 2023",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2024/",
+	"title": "Spring 2024",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2024/",
+	"title": "Fall 2024",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2025/",
+	"title": "Spring 2025",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/fall-2025/",
+	"title": "Fall 2025",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/seminar/spring-2026/",
+	"title": "Spring 2026",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/_header/",
+	"title": "Header",
+	"tags": [],
+	"description": "",
+	"content": " CCBB Center for Computational Biology and Bioinformatics @ Penn State\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://www.ccbb.psu.edu/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": " Center for Computational Biology and Bioinformatics The Center\u0026rsquo;s mission is to bring together researchers who are developing and applying computational biology and bioinformatic approaches across a wide range of biological questions. In order to enhance Penn State\u0026rsquo;s recognized strength in this area, the Center will continue to foster collaborations, contribute to education and training, and build industrial partnerships when applicable.\nBrowse our site to learn about the center\u0026rsquo;s history, the people involved, the seminars it hosts, and the various educational and computational biology and bioinformatic resources available on campus. The center also runs a visiting scholars program and hosts workshops.\nThe Center\u0026rsquo;s activities are currently funded by the Huck Institutes of the Life Sciences.\nCenter members can access relevant documents through our shared folder.\n"
+},
+{
+	"uri": "http://www.ccbb.psu.edu/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
