@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WEMSA on CCBB</title>
+    <link>http://www.ccbb.psu.edu/wemsa/</link>
+    <description>Recent content in WEMSA on CCBB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.ccbb.psu.edu/wemsa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://www.ccbb.psu.edu/wemsa/2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ccbb.psu.edu/wemsa/2024/</guid>
+      <description>WEMSA2024: Workshop on Emerging Methods for Sequence Analysis The Center for Computational Biology and Bioinformatics at Penn State will host a one-day workshop on emerging methods for sequence analysis on August 9, 2024. The workshop will feature a mix of invited speakers and talks selected from submitted abstracts. We thank Zhiping Weng (University of Massachusetts) and Ben Raphael (Princeton University) for accepting our invitation as keynote speakers! To participate in the workshop please fill the registration form below.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ccbb.psu.edu/wemsa/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ccbb.psu.edu/wemsa/2023/</guid>
+      <description>2023 Workshop on emerging methods for sequence analysis Information for participants  Location is Hintz Alumni Center, https://www.map.psu.edu/?id=1134#!m/261351 A set of recommended hotels, restaurants, and parking garages/lots have been compiled in a google map: https://www.google.com/maps/d/u/0/edit?mid=1USYgOeGSxdYGUApuxe63kwU4ivYnNcw&amp;amp;usp=sharing Notes about parking: The Fraser Street garage (135 S Fraser St, State College, PA 16801) is closest to the workshop venue. All the downtown garages are roughly $1/hour. More information about parking is available at: https://www.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ccbb.psu.edu/wemsa/2018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ccbb.psu.edu/wemsa/2018/</guid>
+      <description>2018 Workshop on emerging methods for sequence analysis CCBB will host a one-day workshop on emerging methods for sequence analysis. The workshop will feature a mix of invited speakers and local Penn State speakers. It will be held on June 22nd (2018), immediately following the PSU Boot Camp on Data Reproducibility.
+Organizers  Qunhua Li Shaun Mahony Paul Medvedev Anton Nekrutenko  Local information  Free Wifi is available (&amp;ldquo;attwifi&amp;rdquo;) throughout campus.</description>
+    </item>
+    
+  </channel>
+</rss>
